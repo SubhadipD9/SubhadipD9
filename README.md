@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subhadip
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning web dev
-- <!---💞️ I’m looking to collaborate on ... -->
+<!---💞️ I’m looking to collaborate on ... -->
 <!---- 📫 How to reach me ... --->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: NowThink
